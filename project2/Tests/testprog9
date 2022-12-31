@@ -1,0 +1,15 @@
+PROGRAM Cylinder
+	/*Missing right parenthesis in an expression*/
+	INT r, a, p, b; 
+	r = 8;
+	p = 0;
+	a = 0;
+	FLOAT i, j;
+	j = -1;
+	IF ( r > 5) THEN
+	  a = ((3.14) * r * r;
+	  p = 2 * 3.14 * r * h + 2 * 3.14 * r * r;
+	END IF; 
+	/*Display the results*/
+	PRINT  ('The output results are ' , r, p, b);
+END  PROGRAM

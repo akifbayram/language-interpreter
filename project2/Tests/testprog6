@@ -1,0 +1,17 @@
+PROGRAM circle
+	/*Missing END of program*/
+	INT r, a, p, b; 
+	FLOAT i, j;
+
+	r = 8;
+	p = 0;
+	a = 0;
+	
+	j = -1;
+	IF ( r > 5) THEN
+	  a = (3.14) * r * r;
+	  p = 2 * 3.14 * b;
+	END IF; 
+	/*Display the results*/
+	PRINT ( "The output results are " , r, p, b);
+PROGRAM

@@ -1,0 +1,15 @@
+PROGRAM Cylinder
+	/*Clean Program*/
+	INT r, a, h, b; 
+	r = 8;
+	h = 10;
+	a = 0;
+	
+	IF ( r > 5 && h > 10) THEN
+		FLOAT surface, volume;
+	  	volume = 3.14 * r * r * h;
+	  	surface = 2 * 3.14 * r * h + 2 * 3.14 * r * r;
+	END IF; 
+	/*Display the results*/
+	PRINT  ("The output results are " , volume, " ", surface, " " , h, " ", r);
+END  PROGRAM

@@ -1,0 +1,15 @@
+PROGRAM circle
+	/*Incorrect Type*/
+	FLOAT r, a, p, b; 
+	REAL i, j ;	
+
+	r = 8;
+	p = 0;
+	a = 0;
+	
+	j = -1;
+	IF ( r > 5) THEN a = (3.14) * r * r; END IF;
+	IF (a < 100) THEN p = 2 * 3.14 * b; END IF; 
+	/*Display the results*/
+	PRINT ( "The output results are " , r, p, b);
+END PROGRAM
