@@ -1,0 +1,14 @@
+PROGRAM prog1
+	/* Testing all flags */ 
+	int _x1, y_1, z-, w234;	
+	float z = 0.75;
+	bool flag = false;
+
+	r = 50;
+	if (flag) then
+		y_1 = 5;
+	else
+		y_1 = 7.5;
+	end if
+	print "Value = ", r, "z = ", z;
+END PROGRAM

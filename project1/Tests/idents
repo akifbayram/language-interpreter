@@ -1,0 +1,8 @@
+PROGRAM prog1
+	int _x1, y_1, z-, w@234;	
+	real z = 0.0, _35;
+	
+	r =  50;
+	for x =1 to 10 do
+	for y = 10 down to 0 do
+END            
