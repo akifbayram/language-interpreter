@@ -3,7 +3,7 @@ A custom language interpreter written using C++ for NJIT's CS 280 course, featur
 
 # Objectives
 ## Project 1
-Lexer
+Lexical Analyzer
 ## Project 2
 Parser
 ## Project 3
