@@ -1,10 +1,10 @@
 # language-interpreter
-A custom language interpreter written using C++ for NJIT's CS 280 course, featuring a lexer, parser, and interpreter.
+A custom language interpreter written using C++ for a programming language concepts course, featuring a lexer, parser, and interpreter.
 
 # Objectives
 ## Project 1
-Lexical Analyzer
+Lexical analyzer
 ## Project 2
-Parser
+Recursive descent parser
 ## Project 3
 Interpreter
